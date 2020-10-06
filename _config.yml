@@ -46,6 +46,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Images/000034.jpg # My profile picture
 about_content: | # this will include new lines to allow paragraphs
+  Hi, I am Colin from Inner-Mongolia, a big fan of noodles
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
