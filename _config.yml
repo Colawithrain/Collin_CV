@@ -4,7 +4,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Collin Cao
-title: Master of Engineering (Materials)
+title: |
+       Master of Engineering (Materials)
        University of Melbourne
 email: colawithrain@gmail.com
 phone: Your phone number (optional)
@@ -54,12 +55,12 @@ about_content: | # this will include new lines to allow paragraphs
     - Lists
     - Tables
     - <a href="google.com">Links</a>
-    - Images/000034.jpg
+    - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
-# Experience Section
+# Intership Section
 # experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
