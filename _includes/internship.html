@@ -1,6 +1,0 @@
-<div class="container internship-container">
-  <h3>{{ site.internship_title | default: "Internship" }}</h3>
-  {% for internship in site.data.internship %}
-    {% include {{ internship.layout | default: 'left' | append: ".html" }} item=internship %}
-  {% endfor %}
-</div>
