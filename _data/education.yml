@@ -7,3 +7,12 @@
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
     Description of qualification
+
+- layout: left
+  name: Beijing University of Chemical Technology
+  dates: 2019 - present
+  qualification: Master of Engineering (Materials)
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
